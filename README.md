@@ -1,6 +1,6 @@
 # Master React Template
 
-A react template that combines React, Webpack, Babel, Prettier, ESLint, jest, enzyme, sass.
+A react template that combines React, Webpack, Babel, Prettier, ESLint, jest, enzyme, sass, husky.
 
 ## Make sure the package versions in the package.json file are up to date
 

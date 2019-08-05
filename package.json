@@ -16,6 +16,8 @@
     "test:coverage": "jest --coverage --colors",
     "lint": "eslint --debug src/",
     "lint:write": "eslint --debug src/ --fix",
+    "precommit": "npm test",
+    "prepush": "npm test",
     "prettier": "prettier --write src/**/*.js"
   },
   "dependencies": {
