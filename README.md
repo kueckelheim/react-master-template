@@ -10,4 +10,4 @@ A react template that combines React, Webpack, Babel, Prettier, ESLint, jest, en
 ## Credits
 
 - [createapp.dev](https://createapp.dev/) - easy webpack configuration
-- [react-starter-kit](https://github.com/adeelibr/react-starter-kit) - source for including enzyme and jest
+- [alligator.io](https://alligator.io/react/testing-react-redux-with-jest-enzyme/) - source for including enzyme and jest

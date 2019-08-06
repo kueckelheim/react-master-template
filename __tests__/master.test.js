@@ -1,4 +1,4 @@
 test("dumb", () => {
-  const test = false;
+  const test = true;
   expect(test).toBeTruthy();
 });

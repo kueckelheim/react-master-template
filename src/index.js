@@ -4,7 +4,7 @@ import "./index.scss";
 
 class App extends React.Component {
   render() {
-    return <div>Hell o test</div>;
+    return <div>Hello</div>;
   }
 }
 
